@@ -1,12 +1,13 @@
-// Program to print my name "Arnaaz Brar"
+/* Program to print my name "Arnaaz Brar"
+-Date 16/01/2020
+-CSCE155E
+-Electrical Engineering
+*/
 
 #include <stdio.h>
 
 int main(void){
-printf("Arnaaz Brar\n");
-  printf("Electrical Engineering\n");
-    printf("My name is Gabin Kundwa");
-    printf("My major is Integrated Science");
-    /*collaborator Gabin Kundwa*/
+printf("Arnaaz Brar\n");// Statement to print the name
+  printf("Electrical Engineering\n"); //Statement to print the major
 return 0;
 }
